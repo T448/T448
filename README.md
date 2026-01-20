@@ -1,6 +1,6 @@
 ## About Me
 
-![](https://skillicons.dev/icons?i=github,githubactions,typescript,nodejs,vue,vuetify,java,spring,python,sklearn,pytorch,docker,nginx,mysql,postgres,grafana,redis,notion,aws,terraform)
+![](https://skillicons.dev/icons?i=github,githubactions,typescript,nodejs,vue,vuetify,java,spring,python,sklearn,pytorch,docker,nginx,mysql,postgres,grafana,redis,notion,aws,terraform,cloudflare)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T448&theme=monokai)
 
